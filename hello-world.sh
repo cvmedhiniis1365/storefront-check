@@ -1,2 +1,5 @@
 #!/bin/bash
-echo 'Storefront Check Passed: Application is healthy!'
+
+echo "Hello World!"
+echo "Storefront Application Check Successful!"
+echo "Build executed successfully using Jenkins."
